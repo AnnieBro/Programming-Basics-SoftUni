@@ -1,7 +1,7 @@
 # Programming-Basics-SoftUni
 
 Tasks I have done from any of the Programming Basics courses from Software University - Sofia.
-The folders here (will) present the programming languages in use, which are (the checked ones are the completed ones):
+The folders here (will) present the programming languages in use, which are (the checked ones are the completed basics courses):
 - [ ] Java
 - [ ] JavaScript
 - [ ] Python
