@@ -1,6 +1,6 @@
 # Programming Basics with Java
 
-This program consists of:
+This program consists of (in order):
 - [x] First Steps in Coding
 - [ ] Simple Operations and Calculations
 - [ ] Conditional Statements
@@ -8,8 +8,6 @@ This program consists of:
 - [ ] While-Loop
 - [ ] For-Loop
 - [ ] Nested Loops
-
-Exercise groups with no lecture to them are:
 - [ ] Exam Preparation
 - [ ] Sample Exam
 - [ ] Exam
