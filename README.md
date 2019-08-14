@@ -2,10 +2,10 @@
 
 Tasks I have done from any of the Programming Basics courses from Software University - Sofia.
 The folders here (will) present the programming languages in use, which are (the checked ones are the completed basics courses):
-- [ ] Java
-- [ ] JavaScript
-- [ ] Python
-- [ ] C#
+- [x] Java        (01.06.2019 - 29.07.2019)
+- [ ] Python      (31.08.2019 - 04.11.2019)
+- [ ] C#          (31.08.2019 - 04.11.2019)
+- [ ] JavaScript  (Not signed up yet)
 
 The tasks are low-level and very basic. The descriptions are originally in Bulgarian, so I will briefly translate them in a README.md in each folder for each group of exercises. The groups of exercises given by SoftUni are separated in:
   - Lab       (first batch, given after the lecture about the topic)
