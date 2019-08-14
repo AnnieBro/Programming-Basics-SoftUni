@@ -1,4 +1,4 @@
-# First-Steps-In-Coding
+# First Steps In Coding
 
 One of the rare topics with just one exercise group. It's literally an introductory topic to coding in general. The exercises are as follows:
 
