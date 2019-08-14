@@ -10,4 +10,4 @@ This (as a lecture) consists of:
   - Using output templates for printf (%s, %d, %f, %c) 
   - Setting decimal place for %f
   - Type conversion (String to int, String to double, int to double, double to int, char to int, int to char)
-  - Using String library methods (toLowerCase, toUpperCase, equalsTo, length)
+  - Using String methods (toLowerCase, toUpperCase, equalsTo, length)
