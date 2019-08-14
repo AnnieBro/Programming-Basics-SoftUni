@@ -14,3 +14,10 @@ The tasks are low-level and very basic. The descriptions are originally in Bulga
 
 Folder order:
 Programming Language/Topic/Exercise Group
+
+Each exercise group generally consists of:
+1. README.md file with the translated exercise descriptions and **occassionally** a short description to the topic itself;
+2. .docx file with the original exercise descriptions, solutions, screenshots, sample tests and so on;
+3. .java files with the corresponding class/file name and code
+
+> Disclaimer: I am still testing stuff out and working on some other things, so this repository might remain rather empty for some time, but it would definitely be completed to my latest progress at one point in time!
