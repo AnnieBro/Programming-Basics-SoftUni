@@ -2,7 +2,7 @@
 
 This program consists of (in order):
 - [x] First Steps in Coding
-- [ ] Simple Operations and Calculations
+- [x] Simple Operations and Calculations
 - [ ] Conditional Statements
 - [ ] Nested Conditional Statements
 - [ ] While-Loop
