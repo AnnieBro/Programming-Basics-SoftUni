@@ -7,14 +7,15 @@ public class Fishland {
         double mackerelPrice = Double.parseDouble(scanner.nextLine());
         double spratPrice = Double.parseDouble(scanner.nextLine());
         double chamois = Double.parseDouble(scanner.nextLine());
-        double mackerel = Double.parseDouble(scanner.nextLine());
+        double horseMackerel = Double.parseDouble(scanner.nextLine());
         int mussels = Integer.parseInt(scanner.nextLine());
 
-        double chamoisPrice = skumriqPrice * 1.6;
-        double safridPrice = tzatzaPrice * 1.8;
+        double chamoisPrice = mackerelPrice * 1.6;
+        double horseMackerelPrice = spratPrice * 1.8;
         double musselsPrice = 7.50;
 
-        double total = chamoisPrice * chamois + mackerelPrice * mackerel + musselsPrice * mussels;
+        double total = chamoisPrice * chamois + horseMackerelPrice * horseMackerel + musselsPrice * mussels;
         System.out.printf("%.2f", total);
     }
 }
+
