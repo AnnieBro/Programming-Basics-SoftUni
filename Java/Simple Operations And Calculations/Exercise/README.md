@@ -1,5 +1,3 @@
-# **WIP**
-
 # Simple Operations and Calculations - Exercise
 
 The exercises are as follows:
