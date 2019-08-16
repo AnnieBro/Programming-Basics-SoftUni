@@ -3,7 +3,7 @@
 This program consists of (in order):
 - [x] First Steps in Coding
 - [x] Simple Operations and Calculations
-- [ ] Conditional Statements
+- [x] Conditional Statements
 - [ ] Nested Conditional Statements
 - [ ] While-Loop
 - [ ] For-Loop
