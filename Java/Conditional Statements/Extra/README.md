@@ -10,7 +10,12 @@ The exercises are as follows:
   - if the pool overflows: **"For (amount of hours) hours the pool overflows with (extra liters water) liters."**
 
 ### 2. Sleeping Tom Cat
-> 
+> Tom the cat loves to sleep, but his owner wants to play with him once the person has free time. To sleep well, Tom's playing limit is 30 000 minutes per year. Tom's playing time depends on the rest days of his owner:
+  - if it's a work day, the owner plays 63 minutes a day with him;
+  - if it's a rest day, the owner plays 127 minutes a day with him.
+> We assume the year has 365 days. Input the number of rest days of the owner (whole number) and output:
+  - if Tom's playing hours are over the limit: **"Tom will run away"** **"(excess hours) hours (excess minutes) minutes more for play"** on two separate lines;
+  - if Tom's playing hours aren't over the limit: **"Tom sleeps well"** **(hours left) hours and (minutes left) minutes less for play"**.
 
 ### 3. Harvest
 > 
