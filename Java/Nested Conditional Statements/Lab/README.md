@@ -1,6 +1,6 @@
 # WIP
 
-# Nested Conditional Statements
+# Nested Conditional Statements - Lab
 
 The exercises are as follows:
 
