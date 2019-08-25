@@ -67,19 +67,19 @@ The exercises are as follows:
     - [0 ; 500] - 5%
     - (500 ; 1000] - 7%
     - (1000 ; 10 000] - 8%
-    - > 10 000 - 12%
+    - over 10 000 - 12%
     
   - **Varna**
     - [0 ; 500] - 4.5%
     - (500 ; 1000] - 7.5%
     - (1000 ; 10 000] - 10%
-    - > 10 000 - 13%
+    - over 10 000 - 13%
     
   - **Plovdiv**
     - [0 ; 500] - 5.5%
     - (500 ; 1000] - 8%
     - (1000 ; 10 000] - 12%
-    - > 10 000 - 14.5%
+    - over 10 000 - 14.5%
 > Input city (String, not case sensitive) and sales **s** (real number) and output the commission up to the second decimal place. Output **"error"** if invalid name of city entered.
   
 
@@ -91,15 +91,15 @@ The exercises are as follows:
     
   - **apartment**
     - 25.00 lv per night
-    - < 10 days - 30% from final price
+    - under 10 days - 30% from final price
     - [10 ; 15] days - 35% from final price
-    - > 15 days - 50% from final price
+    - over 15 days - 50% from final price
     
   - **president apartment**
     - 35.00 lv per night
-    - < 10 days - 10% from final price
+    - under 10 days - 10% from final price
     - [10 ; 15] days - 15% from final price
-    - > 15 days - 20% from final price
+    - over 15 days - 20% from final price
     
 > After his stay, Atanas may leave either **positive** or **negative** feedback:
   - if **positive**, add 25% to the final price after the discount;
