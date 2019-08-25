@@ -69,13 +69,49 @@ The exercises are as follows:
   - if the budget is not enough: **"Not enough money! You need (remaining money) leva."**
 
 ### 6. Journey
-> 
+> A young programmer wants to plan a trip. The destination depends on the budget and the accommodation and amount of it spent depend on the season:
+  - 100 lv or under - Somewhere in **"Bulgaria"**
+    - **summer** - **"Camp"**, 30% of budget
+    - **winter** - **"Hotel"**, 70% of budget
+    
+  - 1000 lv or under - Somewhere in **"Balkans"**
+    - **summer** - **"Camp"**, 30% of budget
+    - **winter** - **"Hotel"**, 70% of budget
+
+  - over 1000 lv - Somewhere in **"Europe"**
+    - **summer** - **"Hotel"**, 30% of budget
+    - **winter** - **"Hotel"**, 70% of budget
+    
+> Input budget (real number) and season (**summer** or **winter**) and output on two lines (money up to second decimal place): **"Somewhere in (destination)"** **"(accommodation) - (money spent)"**
 
 ### 7. Operations Between Numbers
-> 
+> Input two whole numbers (**N1** and **N2**) and an operator between them and output:
+  - if it's a sum, substraction or multiplication: **"{N1} (operator) {N2} = (result) - (even/odd)"**;
+  - if it's a division: **"{N1} / {N2} = (result)"**, to the second decimal place;
+  - if it's a modular division: **"{N1} % {N2} = (rest)"**;
+  - if it's a division by 0: **"Cannot divide {N1} by zero"**.
 
 ### 8. Hotel Room
-> 
+> A hotel offers 2 types of rooms, for which the prices vary based on the months they're booked for:
+  - **May** and **October**:
+    - **"Apartment"** - 65 lv/night
+    - **"Studio"** - 50 lv/night
+    
+  - **June** and **September**:
+    - **"Apartment"** - 68.70 lv/night
+    - **"Studio"** - 75.20 lv/night
+    
+  - **July** and **August**:
+    - **"Apartment"** - 77 lv/night
+    - **"Studio"** - 76 lv/night
+    
+> The following discounts are available:
+  - Studio - more than 7 nights during May and October: 5% discount;
+  - Studio - more than 14 nights during May and October: 30% discount;
+  - Studio - more than 14 nights during June and September: 20% discount;
+  - Apartment - more than 14 nights during any month: 10% discount;
+  
+> Input month (String, not case sensitive, listed above) and number of nights (whole number) and output on two lines, up to the second decimal place: **"Apartment: (total price) lv."** **"Studio: (total price) lv."**
 
 ### 9. On Time for the Exam
 > 
