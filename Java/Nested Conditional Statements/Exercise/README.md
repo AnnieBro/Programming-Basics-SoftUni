@@ -67,7 +67,7 @@ The exercises are as follows:
   - if the budget is not enough: **"Not enough money! You need (remaining money) leva."**
 
 ### 6. Journey
-> A young programmer wants to plan a trip. The destination depends on the budget and the accommodation and amount of it spent depend on the season:
+> A young programmer wants to plan a trip. The destination depends on the budget, while the accommodation and amount of it spent depend on the season:
   - 100 lv or under - Somewhere in **"Bulgaria"**
     - **summer** - **"Camp"**, 30% of budget
     - **winter** - **"Hotel"**, 70% of budget
