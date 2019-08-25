@@ -1,5 +1,3 @@
-# WIP
-
 # Nested Conditional Statements - Exercise
 
 The exercises are as follows:
@@ -114,7 +112,23 @@ The exercises are as follows:
 > Input month (String, not case sensitive, listed above) and number of nights (whole number) and output on two lines, up to the second decimal place: **"Apartment: (total price) lv."** **"Studio: (total price) lv."**
 
 ### 9. On Time for the Exam
-> 
+> A student needs to be on time for an exam. Input the hour of the exam, the minutes of the exam, the hour of arrival and the minutes of arrival (whole numbers) and output (minutes always 2 digits):
+  - First line:
+    - if the student arrives after the start of the exam: **"Late"**;
+    - if the student arrives <= 30 minutes before the exam: **"On time"**;
+    - if the student arrives more than 30 minutes before the exam: **"Early"**.
+    
+  - Second line:
+    - if early, under 1 hour: **"mm minutes before the start"**;
+    - if early, over or exactly 1 hour: **"hh:mm hours before the start"**; 
+    - if late, under 1 hour: **"mm minutes after the start"**;
+    - if late, over or exactly 1 hour: **"hh:mm hours after the start"**.
 
 ### 10. Volleyball
-> 
+> Vladi is a student, lives in Sofia and travels back to his hometown **h** times per year. He loves volleyball, but due to work he only plays during weekends and holidays. 
+  - he plays in Sofia, when he's not at work, not in his hometown and in 2/3 of holiday days;
+  - he plays in his hometown on sundays with his friends;
+  - he's not at work 3/4 of weekends he's in Sofia;
+  - he plays 15% more volleyball than usual during leap years;
+  - we assume the year has exactly 48 weekends suitable for volleyball.
+> Input whether it's a leap year (String, **leap** or **normal**, not case sensitive), holidays (**p**, whole number, which are not Saturday or Sunday) and days he travels back (**h**, whole number) and output the amount of days he could play volleyball in a year.
