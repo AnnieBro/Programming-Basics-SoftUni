@@ -6,7 +6,7 @@ This program consists of (in order):
 - [x] Conditional Statements
 - [x] Nested Conditional Statements
 - [x] While-Loop
-- [ ] For-Loop
+- [x] For-Loop
 - [ ] Nested Loops
 - [ ] Exam Preparation
 - [ ] Sample Exam
