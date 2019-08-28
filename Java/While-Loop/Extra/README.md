@@ -50,12 +50,12 @@ The exercises are as follows:
 
 ### 4. Numbers Divided by Three
   - **Input**: (None)
-	- **End of program**:
-		- Output numbers from 1 to 100 that can be divided by three on a separate line each.
+  - **End of program**:
+    - Output numbers from 1 to 100 that can be divided by three on a separate line each.
 
 ### 5. Average Number
   - **Input**: Whole number **n** and then an **n**-amount of whole numbers.
-	- **End of program**:
-		- Output average of all entered numbers (except n, of course), to second decimal place.
+  - **End of program**:
+    - Output average of all entered numbers (except n, of course), to second decimal place.
 
 > Note: This is where I start making considerable formatting changes.
