@@ -1,4 +1,4 @@
-# For-Loop - Lab
+# For-Loop - Extra
 
 The exercises are as follows:
 
