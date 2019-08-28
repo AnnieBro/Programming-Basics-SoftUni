@@ -1,5 +1,3 @@
-# WIP
-
 # While-Loop - Extra
 
 The exercises are as follows:
