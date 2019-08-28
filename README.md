@@ -20,4 +20,5 @@ Each exercise group generally consists of:
 2. .docx file with the original exercise descriptions, solutions, screenshots, sample tests and so on;
 3. .java files with the corresponding class/file name and code
 
+> Note that as an ongoing repository, small formatting changes may occur, as well as problem description structures may change with upcoming updated topics. Please bear with those changes as time goes by and new content is added, my aim is to make the descriptions more comprehensible..
 > I am still testing stuff out and working on some other things, so this repository might remain rather empty for some time, but it would definitely be completed to my latest progress at one point in time!
