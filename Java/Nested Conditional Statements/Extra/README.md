@@ -147,4 +147,4 @@ The exercises are as follows:
 ### 9. Multiply by Two
 > Input various positive numbers until a negative number is entered. 
   - After every input number output: **"Result: (number * 2)"** on a separate line, to the second decimal place.     
-  - When a negative number is input, output: **"Negative number"**
+  - When a negative number is input, output: **"Negative number"**.
