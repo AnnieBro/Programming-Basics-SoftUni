@@ -10,11 +10,11 @@ The exercises are as follows:
     - A saucepan needs 15 ml of detergent.
     - Every third filling of the dishwasher is only with saucepans, while all the rest - with dishes.
   - **End of program**:
-    - if command prompt reached before running out of detergent, output: 
+    - If command prompt reached before running out of detergent, output: 
       - **"Detergent was enough!"**
       - **"(number of clean dishes) dishes and (number of clean saucepans) pots were washed."**
       - **"Leftover detergent (leftover) ml."**
-    - if detergent runs out before command prompt, output:
+    - If detergent runs out before command prompt, output:
       - **"Not enough detergent, (amount necessary for last batch) ml. more necessary!"**
 
 ### 2. Report System
