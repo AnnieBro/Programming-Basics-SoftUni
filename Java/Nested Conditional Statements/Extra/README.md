@@ -1,5 +1,3 @@
-# WIP 
-
 # Nested Conditional Statements - Extra
 
 The exercises are as follows:
@@ -56,19 +54,97 @@ The exercises are as follows:
 > Input number of chrysantemum, roses and tulips (whole numbers), season (String, not case sensitive, listed above) and whether it's a holiday (**Y/N**) and output the price of the bouquet up to the second decimal place.
     
 ### 4. Car to Go
-> 
+> A car rental service is in order and depending on the budget and season, the offered specifications are such:
+  - Budget under or equal to 100 lv:
+    - Class: **"Economy class"**
+    - Season:
+      - Summer: **"Cabrio"** - 35% of budget
+      - Winter: **"Jeep"** - 65% of budget
+      
+  - Budget over 100 lv and under or equal to 500 lv:
+    - Class: **"Compact class"**
+    - Season:
+      - Summer: **"Cabrio"** - 45% of budget
+      - Winter: **"Jeep"** - 80% of budget
+      
+  - Budget over 500 lv:
+    - Class: **"Luxury class"**
+    - Season: **"Jeep"** - 90% of budget for any season
+    
+> Input budget (real number) and season (**Summer/Winter**, not case sensitive) and output (money to second decimal place): **"(Class type)"** **"(Car type) - (car price)"**.
 
 ### 5. Vacation
-> 
+> A vacation service gives various resort offers depending on budget and season:
+  - Budget under or equal to 1000 lv:
+    - Accommodation: **"Camp"**
+    - Season:
+      - Summer: **"Alaska"** - 65% of budget
+      - Winter: **"Morocco"** - 45% of budget
+      
+  - Budget over 1000 lv and under or equal to 3000 lv:
+    - Accommodation: **"Hut"**
+    - Season:
+      - Summer: **"Alaska"** - 80% of budget
+      - Winter: **"Morocco"** - 60% of budget
+      
+  - Budget over 3000 lv:
+    - Accommodation: **"Hotel"**
+    - Season:
+      - Summer: **"Alaska"** - 90% of budget
+      - Winter: **"Morocco"** - 90% of budget
+      
+> Input budget (real number) and season (**Summer/Winter**, not case sensitive) and output (money to second decimal place): **"(Location) - (Accommodation) - (Price)"**.
 
 ### 6. Truck Driver
-> 
+> A truck driver wants to calculate his earnings for a season (a season is 4 months). Depending on the season and driven kilometres, he earns this much per kilometre:
+  - Under or equal to 5000:
+    - **Spring/Autumn**: 0.75 lv/km
+    - **Summer**: 0.90 lv/km
+    - **Winter**: 1.05 lv/km
+    
+  - Over 5000 and under or equal to 10 000:
+    - **Spring/Autumn**: 0.95 lv/km
+    - **Summer**: 1.10 lv/km
+    - **Winter**: 1.25 lv/km
+    
+  - Over 10 000 and under or equal to 20 000: 1.45 lv/km for any season.
+  
+> 10% of the final price is removed for taxes. Input season (String, not case sensitive) and kilometres per month (real number) and output the final earnings up to the second decimal place.
 
 ### 7. School Camp
-> 
+> A private school is organising camping trips for the students and depending on the holiday season and the group type the prices in the hotel vary:
+  - **Boys/Girls**:
+    - Winter - 9.60
+    - Spring - 7.20
+    - Summer - 15
+
+  - Mixed:
+    - Winter - 10
+    - Spring - 9.50
+    - Summer - 20
+    
+> The type of sports also vary based on group type and season:
+  - **Girls**:
+    - Winter - **"Gymnastics"**
+    - Spring - **"Athletics"**
+    - Summer - **"Volleyball"**
+      
+  - **Boys**:
+    - Winter - **"Judo"**
+    - Spring - **"Tennis"**
+    - Summer - **"Football"**
+    
+  - **Mixed**:
+    - Winter - **"Ski"**
+    - Spring - **"Cycling"**
+    - Summer - **"Swimming"**    
+
+> Input season (String, not case sensitive), group type (String, listed above, not case sensitive), number of students and nights (both whole numbers) and output (money up to second decimal place): **"(Sport type) (price) lv."**.
 
 ### 8. Numbers from One to Ten
-> 
+> Print the numbers from one to ten each on a separate line.
 
 ### 9. Multiply by Two
-> 
+> Input various positive numbers until a negative number is entered. 
+  - After every input number output: **"Result: (number * 2)"** on a separate line, to the second decimal place.     
+  - When a negative number is input, output: **"Negative number"**
