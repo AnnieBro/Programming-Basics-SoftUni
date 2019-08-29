@@ -5,24 +5,22 @@
 The exercises are as follows:
 
 ### 1. Numbers from 1 to 100
-> 
-  - **Input**:
-  - **End of program**:
+  - **Input**: (none)
+  - **End of program**: Output all numbers from 1 to 100 on a separate line each.
 
 ### 2. Latin Letters
-> 
-  - **Input**:
-  - **End of program**:
+  - **Input**: (none)
+  - **End of program**: Output all Latin letters from 'a' to 'z' on a separate line each.
   
 ### 3. Sum Numbers
-> 
-  - **Input**:
-  - **End of program**:
+  - **Input**: **n** (whole number) and continuously input **n** amount of whole numbers.
+  - **End of program**: When **n** is reached, output sum of all numbers.
   
 ### 4. Number Sequence
-> 
-  - **Input**:
-  - **End of program**:
+  - **Input**: **n** (whole number) and continuously input **n** amount of whole numbers.
+  - **End of program**: When **n** is reached, output:
+    - **"Max number: (largest number)"**
+    - **"Min number: (smallest number)"**
   
 ### 5. Left and Right Sum
 > 
