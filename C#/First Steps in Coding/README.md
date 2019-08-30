@@ -1,6 +1,7 @@
 # First Steps In Coding
 
 One of the rare topics with just one exercise group. It's literally an introductory topic to coding in general. The lecture consists of:
+  - Essence of coding
   - Programming languages
   - Interesting facts about C#
   - Creating a basic console program 
