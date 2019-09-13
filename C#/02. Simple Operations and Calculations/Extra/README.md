@@ -1,4 +1,4 @@
-# Simple Operations and Calculations - Lab
+# Simple Operations and Calculations - Extra
 
 The exercises are as follows:
 
